@@ -28,5 +28,4 @@ This application:
   - **Output**: Predicted stock price for next 30 days
 
 - **Nifty Model**: Calculates Nifty index price which has an influence on the stock price. Same model structure used
-=======
 
