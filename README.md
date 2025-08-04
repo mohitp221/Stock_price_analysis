@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stock Market Analysis
 
 ## Project Overview
@@ -29,5 +29,4 @@ This application:
 
 - **Nifty Model**: Calculates Nifty index price which has an influence on the stock price. Same model structure used
 =======
-# Stock_price_analysis
->>>>>>> 51226ecf25a31c26818630410470be3577d4502e
+
